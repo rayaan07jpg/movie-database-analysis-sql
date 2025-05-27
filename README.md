@@ -45,3 +45,10 @@ SELECT genre, ROUND(AVG(rating), 2) AS avg_rating
 FROM movies
 GROUP BY genre
 ORDER BY avg_rating DESC;
+
+## 🛠 Tools Used
+- MySQL Workbench
+- GitHub
+
+## 💡 Author
+Ahmad Rayaan
