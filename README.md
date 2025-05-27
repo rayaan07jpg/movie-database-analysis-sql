@@ -1,12 +1,7 @@
 # 🎬 Movie Database Analysis (SQL Project)
 
-   ## 🛠 Tools Used
-- MySQL Workbench
-- GitHub
-
 ## 💡 Author
 Ahmad Rayaan
-
 
 ## This project analyzes a curated dataset of 50 popular movies using SQL. It explores trends in genres, ratings, durations, and release years.
 
@@ -25,6 +20,7 @@ Ahmad Rayaan
 - MySQL
 - MySQL Workbench (Import Wizard)
 - SQL (DDL + DML)
+- GitHub
 
 ## 🧠 Key Questions Answered
 
