@@ -1,5 +1,12 @@
 # 🎬 Movie Database Analysis (SQL Project)
 
+   ## 🛠 Tools Used
+- MySQL Workbench
+- GitHub
+
+## 💡 Author
+Ahmad Rayaan
+
 This project analyzes a curated dataset of 50 popular movies using SQL. It explores trends in genres, ratings, durations, and release years.
 
 ## 📊 Dataset Overview
@@ -11,7 +18,7 @@ This project analyzes a curated dataset of 50 popular movies using SQL. It explo
   - `release_year`: Year released
   - `duration_mins`: Duration in minutes
   - `rating`: IMDb-style rating (out of 10)
-
+ 
 ## 🛠️ Tools Used
 
 - MySQL
@@ -46,9 +53,7 @@ FROM movies
 GROUP BY genre
 ORDER BY avg_rating DESC;
 
-## 🛠 Tools Used
-- MySQL Workbench
-- GitHub
 
-## 💡 Author
-Ahmad Rayaan
+
+
+
