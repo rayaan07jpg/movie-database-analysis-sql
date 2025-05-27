@@ -50,7 +50,12 @@ FROM movies
 GROUP BY genre
 ORDER BY avg_rating DESC;
 
-
+-- Genre with the Longest Average Duration
+SELECT genre, ROUND(AVG(duration_mins), 1) AS avg_duration
+FROM movies
+GROUP BY genre
+ORDER BY avg_duration DESC
+LIMIT 1;
 
 
 
