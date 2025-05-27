@@ -28,7 +28,7 @@ This project analyzes a curated dataset of 50 popular movies using SQL. It explo
 
 ## 📂 Files
 
-- `real_movie_dataset.csv` — the dataset
+- `movie_dataset.csv` — the dataset
 - `movie_analysis.sql` — SQL queries used for analysis
 
 ## 🧪 Sample SQL Queries
