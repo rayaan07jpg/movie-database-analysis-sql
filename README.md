@@ -7,7 +7,8 @@
 ## 💡 Author
 Ahmad Rayaan
 
-This project analyzes a curated dataset of 50 popular movies using SQL. It explores trends in genres, ratings, durations, and release years.
+
+## This project analyzes a curated dataset of 50 popular movies using SQL. It explores trends in genres, ratings, durations, and release years.
 
 ## 📊 Dataset Overview
 
